@@ -1,3 +1,6 @@
+# 11) Desenvolva uma lógica que leia os valores de A, B e C de uma equação do
+# segundo grau e mostre o valor de Delta.
+
 def main():
     A, B, C = valores_adq()
     delta =  calculo_delta(A, B, C)
